@@ -1,11 +1,11 @@
 body {
 	font-family: 'Nunito', sans-serif;
 	color: #faf3bc;
-	background: #420600 url('img/bg-texture.jpg') repeat;
+	background: #BF9B30 ;
 }
 
 a {
-	color: #4fb69f;
+	color: #4f2982;
 	text-decoration: none;
 }
 
@@ -85,7 +85,7 @@ ul.nav {
 
 ul.nav li {
 	float: left;
-	margin-right: 40px;
+	margin-right: 80px;
 }
 
 ul.nav li.last {
@@ -114,7 +114,7 @@ ul.nav li a {
 }
 
 #intro {
-	margin: 50px 0 75px 0;
+	margin: 00px 0 00px 0;
 }
 
 #city-life img {
