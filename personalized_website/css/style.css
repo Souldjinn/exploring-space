@@ -1,6 +1,6 @@
 body {
 	font-family: 'Nunito', sans-serif;
-	color: #28A282;
+	color: #A66F00;
 	background: #B00000 url('img/red-grunge-background.jpg');
 
 }
@@ -23,7 +23,7 @@ h2 {
 	font-family: 'Condiment', cursive;
 	font-weight: 100;
 	font-size: 1.500em;
-	color: #476A00;
+	color: #FFAA00;
 	text-decoration: underline;
 }
 
@@ -124,7 +124,7 @@ ul.nav li a {
 
 #city-life img {
 	border: 8px solid #faf3bc;
-	margin: 0 0 0px 0;
+	margin: 30px 30px 0px 0;
 }
 
 #popular-cupcakes img {
