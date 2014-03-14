@@ -1,8 +1,8 @@
 body {
 	font-family: 'Nunito', sans-serif;
-	color: #0B61A4;
-	background: #BF9B30 ;
-	
+	color: #28A282;
+	background: #B00000 url('img/red-grunge-background.jpg');
+
 }
 
 a {
@@ -15,7 +15,7 @@ h1 {
 	font-size: 1.750em;
 	font-weight: 100;
 	letter-spacing: -1.5px;
-	color:#4F2982;
+	color:#B96D2E;
 
 }
 
@@ -23,7 +23,7 @@ h2 {
 	font-family: 'Condiment', cursive;
 	font-weight: 100;
 	font-size: 1.500em;
-	color: #FFBF00;
+	color: #476A00;
 	text-decoration: underline;
 }
 
